@@ -1,6 +1,6 @@
 *.hcl
 *.tfvars
-.gitigonre
+.gitignore
 .git/
 authorized_key.json
 .terraform/
